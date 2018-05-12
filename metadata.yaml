@@ -1,0 +1,36 @@
+_repo: On-the-Natural-Faculties_43383
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brock, Arthur John
+    gutenberg_agent_id: '42169'
+    url: http://www.gutenberg.org/2009/agents/42169
+covers:
+- cover_type: archival
+  image_path: 43383-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Galen
+    aliases:
+    - Galen,‏ of Pergamon
+    - Galen, Claudius‏
+    - Galenus, Claudius‏
+    gutenberg_agent_id: '42168'
+    url: http://www.gutenberg.org/2009/agents/42168
+description: ''
+gutenberg_issued: '2013-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43383'
+language:
+- en
+- grc
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine, Greek and Roman'
+- !lcc 'PA'
+- !lcsh 'Physiology'
+title: 'Galen: On the Natural Faculties'
+url: http://www.gutenberg.org/ebooks/43383
